@@ -3,3 +3,6 @@
 ################################################################################
 
 /ApiCatalogoProducao/bin/Debug/netcoreapp3.1
+/ApiCatalogoProducao/obj
+/ApiCatalogoProducao.BusinessObject/obj
+/.vs/ApiCatalogoProducao
