@@ -6,3 +6,6 @@
 /ApiCatalogoProducao/obj
 /ApiCatalogoProducao.BusinessObject/obj
 /.vs/ApiCatalogoProducao
+/ApiCatalagoProducao.Test/obj
+/ApiCatalagoProducao.Test/bin/Debug/netcoreapp3.1
+/ApiCatalogoProducao.BusinessObject/bin/Debug/netcoreapp3.1
