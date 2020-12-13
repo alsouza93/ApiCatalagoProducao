@@ -14,9 +14,6 @@ namespace ApiCatalogoProducao.Controllers
         public AtorController()
         {
 
-        }
-
-
-       
+        }       
     }
 }
