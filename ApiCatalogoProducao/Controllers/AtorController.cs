@@ -24,7 +24,7 @@ namespace ApiCatalogoProducao.Controllers
 
         [HttpPost]
         [Route("")]
-        public ActionResult CriarAtor()
+        public ActionResult AdicionarAtor()
         {
             return Ok();
         }
