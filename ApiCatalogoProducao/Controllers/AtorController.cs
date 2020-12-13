@@ -7,9 +7,16 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ApiCatalogoProducao.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/atores")]
     [ApiController]
     public class AtorController : ControllerBase
     {
+        public AtorController()
+        {
+
+        }
+
+
+       
     }
 }

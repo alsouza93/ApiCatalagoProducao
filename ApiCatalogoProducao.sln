@@ -5,9 +5,7 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiCatalogoProducao", "ApiCatalogoProducao\ApiCatalogoProducao.csproj", "{8EC4A4A0-F4F4-4FA2-A9DD-F6EFCD441BD6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiCatalogoProducao.BusinessObject", "ApiCatalogoProducao.BusinessObject\ApiCatalogoProducao.BusinessObject.csproj", "{1DA66CD0-FF7F-45F9-BFEB-2879DAA4C33F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiCatalagoProducao.Test", "ApiCatalagoProducao.Test\ApiCatalagoProducao.Test.csproj", "{E26C1845-31CA-4B85-9197-12911D812D86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiCatalagoProducao.Test", "ApiCatalagoProducao.Test\ApiCatalagoProducao.Test.csproj", "{E26C1845-31CA-4B85-9197-12911D812D86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +17,6 @@ Global
 		{8EC4A4A0-F4F4-4FA2-A9DD-F6EFCD441BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EC4A4A0-F4F4-4FA2-A9DD-F6EFCD441BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EC4A4A0-F4F4-4FA2-A9DD-F6EFCD441BD6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1DA66CD0-FF7F-45F9-BFEB-2879DAA4C33F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1DA66CD0-FF7F-45F9-BFEB-2879DAA4C33F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1DA66CD0-FF7F-45F9-BFEB-2879DAA4C33F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1DA66CD0-FF7F-45F9-BFEB-2879DAA4C33F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E26C1845-31CA-4B85-9197-12911D812D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E26C1845-31CA-4B85-9197-12911D812D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E26C1845-31CA-4B85-9197-12911D812D86}.Release|Any CPU.ActiveCfg = Release|Any CPU

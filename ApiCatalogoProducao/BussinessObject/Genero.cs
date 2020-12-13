@@ -7,8 +7,6 @@
         Drama,
         Terror,
         Comedia,
-        FiccaoCientifica,
-        Romance,
-        Suspense
+        Romance
     }
 }
