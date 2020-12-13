@@ -13,7 +13,13 @@ namespace ApiCatalogoProducao.Controllers
     {
         public AtorController()
         {
+        }   
 
-        }       
+        [HttpGet]
+        [Route("")]
+        public ActionResult BuscarAtores()
+        {           
+            return Ok();
+        }    
     }
 }
