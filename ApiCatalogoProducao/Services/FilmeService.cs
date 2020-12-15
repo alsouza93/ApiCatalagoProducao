@@ -30,17 +30,17 @@ namespace ApiCatalogoProducao.Services
             return filmeRepository.ListarFilmes();
         }
 
-        public Filme PublicarFilme(Filme filme)
-        {
-            //Adicionar data de publicacao como data atual
-            //
+        //public Filme PublicarFilme(Filme filme)
+        //{
+        //    //Adicionar data de publicacao como data atual
+        //    //
 
-            throw new NotImplementedException();
-        }
+        //    throw new NotImplementedException();
+        //}
 
-        public void RemoverFilme(Filme filme)
-        {
-            filmeRepository.RemoverFilme(filme);
-        }
+        //public void Filme(Filme filme)
+        //{
+        //    filmeRepository.RemoverFilme(filme);
+        //}
     }
 }
