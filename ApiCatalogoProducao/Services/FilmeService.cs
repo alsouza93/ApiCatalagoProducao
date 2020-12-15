@@ -28,19 +28,6 @@ namespace ApiCatalogoProducao.Services
         public List<Filme> ListarFilmes()
         {
             return filmeRepository.ListarFilmes();
-        }
-
-        public Filme PublicarFilme(Filme filme)
-        {
-            //Adicionar data de publicacao como data atual
-            //
-
-            throw new NotImplementedException();
-        }
-
-        public void RemoverFilme(Filme filme)
-        {
-            filmeRepository.RemoverFilme(filme);
-        }
+        }      
     }
 }
