@@ -38,9 +38,9 @@ namespace ApiCatalogoProducao.Services
             throw new NotImplementedException();
         }
 
-        public void RemoverFilme(Filme filme)
-        {
-            filmeRepository.RemoverFilme(filme);
-        }
+        //public void RemoverFilme(Filme filme)
+        //{
+        //    filmeRepository.RemoverFilme(filme);
+        //}
     }
 }

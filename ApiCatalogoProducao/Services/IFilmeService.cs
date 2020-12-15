@@ -9,6 +9,6 @@ namespace ApiCatalogoProducao.Services
         Filme AdicionarFilme(Filme filme);
         Filme PublicarFilme(Filme filme);
         Filme AdicionarElenco(Filme filme);
-        void RemoverFilme(Filme filme);
+        //void RemoverFilme(Filme filme);
     }
 }
